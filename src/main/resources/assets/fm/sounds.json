@@ -1,0 +1,18 @@
+{
+    "mudball_splash": {
+		"sounds": [
+			{
+				"name": "fm:mudball_splash_1",
+				"stream": true
+			},
+			{
+				"name": "fm:mudball_splash_2",
+				"stream": true
+			},
+			{
+				"name": "fm:mudball_splash_3",
+				"stream": true
+			}
+		]
+	}
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "M": {
+            "item": "minecraft:mud"
+        },
+        "O": {
+            "item": "minecraft:snowball"
+        }
+    },
+    "pattern": [
+        "OOO",
+        "OMO",
+        "OOO"
+    ],
+    "result": {
+        "count": 8,
+        "id": "fm:mudball"
+    }
+}
